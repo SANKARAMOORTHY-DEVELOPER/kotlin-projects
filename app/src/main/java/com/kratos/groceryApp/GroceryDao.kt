@@ -1,8 +1,8 @@
-package com.kratos.groceryApp
+package com.sankar.groceryApp
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
-import com.kratos.groceryApp.GroceryItems
+import com.sankar.groceryApp.GroceryItems
 
 @Dao
 interface GroceryDao {

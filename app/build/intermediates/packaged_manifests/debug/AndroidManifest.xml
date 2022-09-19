@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.kratos.groceryApp"
+    package="com.sankar.groceryApp"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -21,7 +21,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.GroceryApp" >
         <activity
-            android:name="com.kratos.groceryApp.MainActivity"
+            android:name="com.sankar.groceryApp.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -32,7 +32,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.kratos.groceryApp.androidx-startup"
+            android:authorities="com.sankar.groceryApp.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

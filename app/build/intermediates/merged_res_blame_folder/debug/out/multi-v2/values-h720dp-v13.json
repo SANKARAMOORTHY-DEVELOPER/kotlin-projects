@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.kratos.groceryApp.app-mergeDebugResources-38:/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "com.sankar.groceryApp.app-mergeDebugResources-38:/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
                     "source": "/home/sankaramoorthy/.gradle/caches/transforms-3/e276f94e9a8f9de3172d1494c48c3fd5/transformed/appcompat-1.5.1/res/values-h720dp-v13/values-h720dp-v13.xml",

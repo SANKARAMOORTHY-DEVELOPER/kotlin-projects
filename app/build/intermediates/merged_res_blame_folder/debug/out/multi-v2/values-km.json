@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.kratos.groceryApp.app-mergeDebugResources-38:/values-km/values-km.xml",
+            "outputFile": "com.sankar.groceryApp.app-mergeDebugResources-38:/values-km/values-km.xml",
             "map": [
                 {
                     "source": "/home/sankaramoorthy/.gradle/caches/transforms-3/6ea5e02244b74fe2f2bc6384d218f2ff/transformed/material-1.6.1/res/values-km/values-km.xml",

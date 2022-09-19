@@ -1,4 +1,4 @@
-package com.kratos.groceryApp
+package com.sankar.groceryApp
 
 class GroceryRepository(private val db: GroceryDatabase) {
 

@@ -1,4 +1,4 @@
-package com.kratos.groceryApp
+package com.sankar.groceryApp
 
 import android.content.Context
 import androidx.room.Database

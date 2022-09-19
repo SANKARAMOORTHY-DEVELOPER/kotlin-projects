@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.kratos.groceryApp.app-mergeDebugResources-38:/values/values.xml",
+            "outputFile": "com.sankar.groceryApp.app-mergeDebugResources-38:/values/values.xml",
             "map": [
                 {
                     "source": "/home/sankaramoorthy/Desktop/project/grocery_app/SPSGP-91083-Virtual-Internship---Android-Application-Development-Using-Kotlin/project/app/src/main/res/values/strings.xml",

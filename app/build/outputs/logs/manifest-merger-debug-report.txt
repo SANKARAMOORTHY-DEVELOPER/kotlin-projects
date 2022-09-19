@@ -111,7 +111,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/sanka
 		ADDED from /home/sankaramoorthy/Desktop/project/grocery_app/SPSGP-91083-Virtual-Internship---Android-Application-Development-Using-Kotlin/project/app/src/main/AndroidManifest.xml:14:9-48
 	android:dataExtractionRules
 		ADDED from /home/sankaramoorthy/Desktop/project/grocery_app/SPSGP-91083-Virtual-Internship---Android-Application-Development-Using-Kotlin/project/app/src/main/AndroidManifest.xml:8:9-65
-activity#com.kratos.groceryApp.MainActivity
+activity#com.sankar.groceryApp.MainActivity
 ADDED from /home/sankaramoorthy/Desktop/project/grocery_app/SPSGP-91083-Virtual-Internship---Android-Application-Development-Using-Kotlin/project/app/src/main/AndroidManifest.xml:16:9-24:20
 	android:exported
 		ADDED from /home/sankaramoorthy/Desktop/project/grocery_app/SPSGP-91083-Virtual-Internship---Android-Application-Development-Using-Kotlin/project/app/src/main/AndroidManifest.xml:18:13-36

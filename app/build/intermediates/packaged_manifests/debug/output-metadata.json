@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.kratos.groceryApp",
+  "applicationId": "com.sankar.groceryApp",
   "variantName": "debug",
   "elements": [
     {

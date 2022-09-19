@@ -1,4 +1,4 @@
-package com.kratos.groceryApp
+package com.sankar.groceryApp
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

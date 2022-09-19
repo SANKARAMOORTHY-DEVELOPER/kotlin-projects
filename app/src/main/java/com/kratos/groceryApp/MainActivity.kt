@@ -1,4 +1,4 @@
-package com.kratos.groceryApp
+package com.sankar.groceryApp
 
 import android.app.Dialog
 import androidx.appcompat.app.AppCompatActivity

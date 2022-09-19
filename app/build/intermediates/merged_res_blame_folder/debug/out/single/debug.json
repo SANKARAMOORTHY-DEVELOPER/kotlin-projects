@@ -1,90 +1,90 @@
 [
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/drawable_custom_button_back.xml.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/drawable/custom_button_back.xml"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/drawable_custom_button_back.xml.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/drawable/custom_button_back.xml"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/layout_grocery_rv_item.xml.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/layout/grocery_rv_item.xml"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/layout_grocery_rv_item.xml.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/layout/grocery_rv_item.xml"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/drawable_ic_add.xml.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/drawable/ic_add.xml"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/drawable_ic_add.xml.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/drawable/ic_add.xml"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/drawable/ic_launcher_background.xml"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/xml_data_extraction_rules.xml.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/xml/data_extraction_rules.xml"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/xml_data_extraction_rules.xml.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/layout_grocery_add_dialog.xml.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/layout/grocery_add_dialog.xml"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/layout_grocery_add_dialog.xml.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/layout/grocery_add_dialog.xml"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.kratos.groceryApp.app-pngs-35:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.sankar.groceryApp.app-pngs-35:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/layout_activity_main.xml.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/layout/activity_main.xml"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/layout_activity_main.xml.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/layout/activity_main.xml"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/xml_backup_rules.xml.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/xml/backup_rules.xml"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/xml_backup_rules.xml.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/drawable_ic_delete.xml.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/drawable/ic_delete.xml"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/drawable_ic_delete.xml.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/drawable/ic_delete.xml"
     },
     {
-        "merged": "com.kratos.groceryApp.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.kratos.groceryApp.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.sankar.groceryApp.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sankar.groceryApp.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
     }
 ]
