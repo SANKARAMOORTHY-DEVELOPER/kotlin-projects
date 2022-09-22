@@ -11,7 +11,7 @@ This repository contains the Project 2 (Grocery App) which was assigned as a int
 [Project Demo](https://drive.google.com/file/d/1HfdKsH-h_b1BfnkNZDcpmDn295ioIaBr/view?usp=sharing)
 
 
-<img src="assets/sma.png" width="200"/><img src="assets/Screenshot_2022-09-23-02-11-45-739_com.androiddevs.grocerylist.jpg" width="200"/><img src="assets/Screenshot_2022-09-23-02-12-13-786_com.androiddevs.grocerylist.jpg" width="200"/><img src="assets/Screenshot_2022-09-23-02-12-25-367_com.androiddevs.grocerylist.jpg" width="200"/>
+<img src="assets/sma.png" /><img src="assets/Screenshot_2022-09-23-02-11-45-739_com.androiddevs.grocerylist.jpg" width="200"/><img src="assets/Screenshot_2022-09-23-02-12-13-786_com.androiddevs.grocerylist.jpg" width="200"/><img src="assets/Screenshot_2022-09-23-02-12-25-367_com.androiddevs.grocerylist.jpg" width="200"/>
 
 
 ## Requirements
