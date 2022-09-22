@@ -1,5 +1,15 @@
 # kotlin-projects
 Kotlin projects attached in google intern in assosciate with Smartinternz
+Virtual Internship - Android Application Development Using Kotlin
+
+This repository contains the Project 2 (Grocery App) which was assigned as a internship project by SmartInternz Android Application Development Using Kotlin Internship
+
+[My SmartInternz Profile](https://smartinternz.com/student-profile/feed/U0IyMDIyMDIzNzcwNw==)
+
+[Google Developers Profile](https://g.dev/sankaramoorthy)
+
+[Project Demo]( )
+
 
 <img src="assets/styled_course_cards.png" width="200"/><img src="assets/styled_lesson.png" width="200"/><img src="assets/md_lesson_with_images.png" width="200"/><img src="assets/qr_scanning_in_progress.png" width="200"/>
 
