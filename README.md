@@ -8,10 +8,10 @@ This repository contains the Project 2 (Grocery App) which was assigned as a int
 
 [Google Developers Profile](https://g.dev/sankaramoorthy)
 
-[Project Demo]( )
+[Project Demo](https://drive.google.com/file/d/1HfdKsH-h_b1BfnkNZDcpmDn295ioIaBr/view?usp=sharing)
 
 
-<img src="assets/styled_course_cards.png" width="200"/><img src="assets/styled_lesson.png" width="200"/><img src="assets/md_lesson_with_images.png" width="200"/><img src="assets/qr_scanning_in_progress.png" width="200"/>
+<img src="assets/sma.png" width="200"/><img src="assets/Screenshot_2022-09-23-02-11-45-739_com.androiddevs.grocerylist.jpg" width="200"/><img src="assets/Screenshot_2022-09-23-02-12-13-786_com.androiddevs.grocerylist.jpg" width="200"/><img src="assets/Screenshot_2022-09-23-02-12-25-367_com.androiddevs.grocerylist.jpg" width="200"/>
 
 
 ## Requirements
